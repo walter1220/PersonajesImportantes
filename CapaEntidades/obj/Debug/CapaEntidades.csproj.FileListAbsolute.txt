@@ -1,0 +1,5 @@
+F:\MantenimientoWalter-HistoriaPersonajes\PersonajesImportantes\CapaEntidades\bin\Debug\CapaEntidades.dll
+F:\MantenimientoWalter-HistoriaPersonajes\PersonajesImportantes\CapaEntidades\bin\Debug\CapaEntidades.pdb
+F:\MantenimientoWalter-HistoriaPersonajes\PersonajesImportantes\CapaEntidades\obj\Debug\CapaEntidades.dll
+F:\MantenimientoWalter-HistoriaPersonajes\PersonajesImportantes\CapaEntidades\obj\Debug\CapaEntidades.pdb
+F:\MantenimientoWalter-HistoriaPersonajes\PersonajesImportantes\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache

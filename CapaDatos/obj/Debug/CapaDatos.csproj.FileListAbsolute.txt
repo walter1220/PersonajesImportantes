@@ -1,0 +1,7 @@
+F:\MantenimientoWalter-HistoriaPersonajes\PersonajesImportantes\CapaDatos\bin\Debug\CapaDatos.dll
+F:\MantenimientoWalter-HistoriaPersonajes\PersonajesImportantes\CapaDatos\bin\Debug\CapaDatos.pdb
+F:\MantenimientoWalter-HistoriaPersonajes\PersonajesImportantes\CapaDatos\bin\Debug\CapaEntidades.dll
+F:\MantenimientoWalter-HistoriaPersonajes\PersonajesImportantes\CapaDatos\bin\Debug\CapaEntidades.pdb
+F:\MantenimientoWalter-HistoriaPersonajes\PersonajesImportantes\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+F:\MantenimientoWalter-HistoriaPersonajes\PersonajesImportantes\CapaDatos\obj\Debug\CapaDatos.dll
+F:\MantenimientoWalter-HistoriaPersonajes\PersonajesImportantes\CapaDatos\obj\Debug\CapaDatos.pdb
